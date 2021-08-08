@@ -1,7 +1,7 @@
 # DISCLAIMER
 This repository is not at all associated with brainyquote.com . The software is only to be used for educational purposes only. By downloading this code you agree with this disclaimer and any misuse is not held in responsibility with the author.
 ## brainyquote-api
-**UNOFFICIAL** API for [brainyquotes.com](brainyquotes.com) . Must have greater than Python 3.7 installed for this program to function properly.
+**UNOFFICIAL** API for [brainyquotes.com](brainyquotes.com) . Must have >= Python 3.7 installed for this program to function properly.
 ## Installation
 
 ```
